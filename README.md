@@ -8,7 +8,8 @@ This is an example of incorporating TestNg into a Maven build.
 
 To run script, you can run:
 ```agsl
-test test -DbrowserName=chrome -DbaseUrl=https://www.entrata.com
+test test -DbrowserName=chrome -DbaseUrl=https://www.entrata.com or
+verify -DbrowserName=chrome -DbaseUrl=https://www.entrata.com
 ```
 
 ##passing base url
