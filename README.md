@@ -6,7 +6,7 @@ This is an example of incorporating TestNg into a Maven build.
 
 ## Usage
 
-To run all script, you can run:
+To run script, you can run:
 ```agsl
 test test -DbrowserName=chrome -DbaseUrl=https://www.entrata.com
 ```
